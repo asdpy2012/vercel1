@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://c3pv5q-8080.csb.app/#/"
+    }
+  ]
+}
