@@ -1,15 +1,29 @@
-live,#genre#
-无线翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-无线明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-Now爆谷台,http://hkenlive.uk/livehttpplay?channel_id=13002
-Now星影台,http://hkenlive.uk/livehttpplay?channel_id=13003
-无线赛马台,http://hkenlive.uk/livehttpplay?channel_id=13005
-娱乐新闻台,http://hkenlive.uk/livehttpplay?channel_id=13006
-Now英超台,http://hkenlive.uk/livehttpplay?channel_id=13007
-无线亚综台,http://hkenlive.uk/livehttpplay?channel_id=13020
-无线粤片台,http://hkenlive.uk/livehttpplay?channel_id=13021
-无线亚剧台,http://hkenlive.uk/livehttpplay?channel_id=13022
-无线华剧台,http://hkenlive.uk/livehttpplay?channel_id=13023
-无线千禧台,http://hkenlive.uk/livehttpplay?channel_id=13024
-无线戏曲台,http://hkenlive.uk/livehttpplay?channel_id=13026
-黄金翡翠台,http://hkenlive.uk/livehttpplay?channel_id=13027
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="无线翡翠台" tvg-logo="https://live.fanmingming.cn/tv/无线翡翠台.png",无线翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-name="无线明珠台" tvg-logo="https://live.fanmingming.cn/tv/无线明珠台.png",无线明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷台.png",Now爆谷台
+http://hkenlive.uk/livehttpplay?channel_id=13002
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.cn/tv/Now星影台.png",Now星影台
+http://hkenlive.uk/livehttpplay?channel_id=13003
+#EXTINF:-1 tvg-name="无线赛马台" tvg-logo="https://live.fanmingming.cn/tv/无线赛马台.png",无线赛马台
+http://hkenlive.uk/livehttpplay?channel_id=13005
+#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://live.fanmingming.cn/tv/娱乐新闻台.png",娱乐新闻台
+http://hkenlive.uk/livehttpplay?channel_id=13006
+#EXTINF:-1 tvg-name="Now英超台" tvg-logo="https://live.fanmingming.cn/tv/Now英超台.png",Now英超台
+http://hkenlive.uk/livehttpplay?channel_id=13007
+#EXTINF:-1 tvg-name="无线亚综台" tvg-logo="https://live.fanmingming.cn/tv/无线亚综台.png",无线亚综台
+http://hkenlive.uk/livehttpplay?channel_id=13020
+#EXTINF:-1 tvg-name="无线粤片台" tvg-logo="https://live.fanmingming.cn/tv/无线粤片台.png",无线粤片台
+http://hkenlive.uk/livehttpplay?channel_id=13021
+#EXTINF:-1 tvg-name="无线亚剧台" tvg-logo="https://live.fanmingming.cn/tv/无线亚剧台.png",无线亚剧台
+http://hkenlive.uk/livehttpplay?channel_id=13022
+#EXTINF:-1 tvg-name="无线华剧台" tvg-logo="https://live.fanmingming.cn/tv/无线华剧台.png",无线华剧台
+http://hkenlive.uk/livehttpplay?channel_id=13023
+#EXTINF:-1 tvg-name="无线千禧台" tvg-logo="https://live.fanmingming.cn/tv/无线千禧台.png",无线千禧台
+http://hkenlive.uk/livehttpplay?channel_id=13024
+#EXTINF:-1 tvg-name="无线戏曲台" tvg-logo="https://live.fanmingming.cn/tv/无线戏曲台.png",无线戏曲台
+http://hkenlive.uk/livehttpplay?channel_id=13026
+#EXTINF:-1 tvg-name="黄金翡翠台" tvg-logo="https://live.fanmingming.cn/tv/黄金翡翠台.png",黄金翡翠台
+http://hkenlive.uk/livehttpplay?channel_id=13027
